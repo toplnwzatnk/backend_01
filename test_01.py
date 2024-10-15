@@ -1,1 +1,7 @@
 print("hello")
+print("duangsetthee longthong")
+print("top")
+print("19")
+print("17")
+print("67319010057")
+print("play a game")
